@@ -12,4 +12,4 @@ A new Flutter project.
 
 ### Some Screenshots
 
-<img src="assets/introduction_animation.gif" height="300em"><img src="assets/hotel_booking.gif" height="300em"><img src="assets/custom_drawer.gif" height="300em"><img src="assets/fitness_app.gif" height="300em" /> <img src="assets/design_course.gif" height="300em" />
+<img src="flutter_ui_templates/screenshots/introduction_animation.gif" height="300em"><img src="flutter_ui_templates/screenshots/hotel_booking.gif" height="300em"><img src="flutter_ui_templates/screenshots/custom_drawer.gif" height="300em"><img src="flutter_ui_templates/screenshots/fitness_app.gif" height="300em" /> <img src="flutter_ui_templates/screenshots/design_course.gif" height="300em" />
